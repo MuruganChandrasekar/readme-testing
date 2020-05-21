@@ -430,7 +430,7 @@ To access mqtt channel, user needs credentials to access it.
 4.  In the container,
 ```bash
     # mosquitto_passwd -c /etc/mosquitto/credentials/passwd \<user\>
-Password:
-Reenter password:
+    Password:
+    Reenter password:
 ```
 5.  Close the connection to mqtts (Ctrl+D).
